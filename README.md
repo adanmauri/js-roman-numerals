@@ -33,7 +33,7 @@ number.romanize()
 
 #### Example
 
-Returns a number which is the corresponding arabic number of 2017:
+Returns a string which is the corresponding arabic number of 2017:
 ```js
 var num = (2017).romanize();
 ```
