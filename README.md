@@ -24,7 +24,7 @@ The result of *num* will be:
 
 ## Number.romanize()
 ### Definition and Usage
-The deromanize method converts a arabic numeral number to its corresponding roman numeral string.
+The romanize method converts a arabic numeral number to its corresponding roman numeral string.
 
 ### Syntax
 ```js
